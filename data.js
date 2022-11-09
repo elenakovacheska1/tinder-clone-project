@@ -3,7 +3,7 @@ export const data = [
     name: "Tom",
     avatar: "images/boy1.jpg",
     age: 25,
-    bio: "Art. Literature. Natural wine. Yoga.",
+    bio: "Art. Literature. Natural wine.",
     hasBeenSwiped: false,
     hasBeenLiked: false,
   },
